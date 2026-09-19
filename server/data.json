@@ -1,0 +1,214 @@
+{
+  "locations": [
+    {
+      "id": "railway",
+      "name": "Coimbatore Railway Station",
+      "category": "Transit Hub",
+      "city": "Coimbatore, India",
+      "lat": 11.0018,
+      "lng": 76.9628,
+      "score": 84,
+      "sub": {
+        "women": 91,
+        "night": 68,
+        "child": 88,
+        "tourist": 89,
+        "senior": 82,
+        "emergency": 76,
+        "traffic": 72
+      },
+      "summary": "This area is generally safe during the daytime. Pickpocketing is the most commonly reported issue in crowded areas. Women and families can travel comfortably during business hours. Extra caution is recommended after 10 PM due to reduced public activity.",
+      "crime": [
+        { "label": "Vehicle Theft", "pct": 32 },
+        { "label": "Robbery", "pct": 18 },
+        { "label": "Harassment", "pct": 14 },
+        { "label": "Assault", "pct": 8 },
+        { "label": "Cyber Crime", "pct": 5 },
+        { "label": "Others", "pct": 23 }
+      ],
+      "time": "6 AM – 10 PM",
+      "reportsCount": 4,
+      "trend": "Decreasing (-12% this month)",
+      "reports": [
+        { "reason": "Poor street lighting", "time": "2 hours ago", "verified": true },
+        { "reason": "Heavy crowd", "time": "4 hours ago", "verified": true }
+      ]
+    },
+    {
+      "id": "gandhipuram",
+      "name": "Gandhipuram Bus Stand",
+      "category": "Transit Hub",
+      "city": "Coimbatore, India",
+      "lat": 11.0183,
+      "lng": 76.9725,
+      "score": 58,
+      "sub": {
+        "women": 61,
+        "night": 39,
+        "child": 65,
+        "tourist": 64,
+        "senior": 59,
+        "emergency": 70,
+        "traffic": 45
+      },
+      "summary": "Busy and commercially active by day, with standard pickpocketing risks typical of a major transit hub. Reports of harassment and dim lighting rise sharply after 9 PM around the outer bus terminals. Best visited in daylight.",
+      "crime": [
+        { "label": "Vehicle Theft", "pct": 21 },
+        { "label": "Robbery", "pct": 27 },
+        { "label": "Harassment", "pct": 24 },
+        { "label": "Assault", "pct": 10 },
+        { "label": "Cyber Crime", "pct": 3 },
+        { "label": "Others", "pct": 15 }
+      ],
+      "time": "7 AM – 8 PM",
+      "reportsCount": 9,
+      "trend": "Stable (+2% this month)",
+      "reports": [
+        { "reason": "Unsafe at night", "time": "1 hour ago", "verified": true },
+        { "reason": "Poor street lighting", "time": "3 hours ago", "verified": true },
+        { "reason": "Suspicious activity", "time": "5 hours ago", "verified": true }
+      ]
+    },
+    {
+      "id": "rspuram",
+      "name": "RS Puram",
+      "category": "Residential",
+      "city": "Coimbatore, India",
+      "lat": 11.0086,
+      "lng": 76.9497,
+      "score": 91,
+      "sub": {
+        "women": 94,
+        "night": 82,
+        "child": 95,
+        "tourist": 90,
+        "senior": 92,
+        "emergency": 88,
+        "traffic": 68
+      },
+      "summary": "One of the most consistently safe neighbourhoods in Coimbatore, with active residential patrols and well-lit retail stretches. Reported incidents are rare, mostly minor vehicle theft near unsupervised parking zones.",
+      "crime": [
+        { "label": "Vehicle Theft", "pct": 38 },
+        { "label": "Robbery", "pct": 9 },
+        { "label": "Harassment", "pct": 7 },
+        { "label": "Assault", "pct": 3 },
+        { "label": "Cyber Crime", "pct": 6 },
+        { "label": "Others", "pct": 37 }
+      ],
+      "time": "All day",
+      "reportsCount": 1,
+      "trend": "Consistently Safe (-5% this month)",
+      "reports": [
+        { "reason": "Heavy crowd", "time": "Yesterday", "verified": true }
+      ]
+    },
+    {
+      "id": "racecourse",
+      "name": "Race Course Road",
+      "category": "Mixed Use",
+      "city": "Coimbatore, India",
+      "lat": 10.9982,
+      "lng": 76.9796,
+      "score": 72,
+      "sub": {
+        "women": 75,
+        "night": 58,
+        "child": 80,
+        "tourist": 80,
+        "senior": 78,
+        "emergency": 82,
+        "traffic": 52
+      },
+      "summary": "A popular evening walking stretch with cafes and green parks, generally calm but with occasional speeding traffic incidents given the road width. Caution advised near the flyover after midnight.",
+      "crime": [
+        { "label": "Vehicle Theft", "pct": 25 },
+        { "label": "Robbery", "pct": 15 },
+        { "label": "Harassment", "pct": 11 },
+        { "label": "Assault", "pct": 6 },
+        { "label": "Cyber Crime", "pct": 4 },
+        { "label": "Others", "pct": 39 }
+      ],
+      "time": "6 AM – 11 PM",
+      "reportsCount": 3,
+      "trend": "Decreasing (-8% this month)",
+      "reports": [
+        { "reason": "Broken CCTV", "time": "6 hours ago", "verified": true },
+        { "reason": "Poor street lighting", "time": "1 day ago", "verified": true }
+      ]
+    },
+    {
+      "id": "timessquare",
+      "name": "Times Square, New York",
+      "category": "Tourist Landmark",
+      "city": "New York, USA",
+      "lat": 40.7580,
+      "lng": -73.9855,
+      "score": 79,
+      "sub": {
+        "women": 82,
+        "night": 74,
+        "child": 85,
+        "tourist": 88,
+        "senior": 78,
+        "emergency": 92,
+        "traffic": 65
+      },
+      "summary": "High tourist footfall with heavy NYPD surveillance around the clock. Pickpocketing and minor street scam reports are common in crowded pedestrian plazas. Night safety is bolstered by continuous 24/7 lighting and activity.",
+      "crime": [
+        { "label": "Vehicle Theft", "pct": 12 },
+        { "label": "Robbery", "pct": 22 },
+        { "label": "Harassment", "pct": 18 },
+        { "label": "Assault", "pct": 9 },
+        { "label": "Cyber Crime", "pct": 8 },
+        { "label": "Others", "pct": 31 }
+      ],
+      "time": "24/7 Monitored",
+      "reportsCount": 14,
+      "trend": "Stable (-2% this month)",
+      "reports": [
+        { "reason": "Heavy crowd", "time": "30 mins ago", "verified": true },
+        { "reason": "Suspicious activity", "time": "2 hours ago", "verified": true }
+      ]
+    },
+    {
+      "id": "shibuya",
+      "name": "Shibuya Crossing, Tokyo",
+      "category": "Commercial",
+      "city": "Tokyo, Japan",
+      "lat": 35.6595,
+      "lng": 139.7004,
+      "score": 93,
+      "sub": {
+        "women": 95,
+        "night": 90,
+        "child": 94,
+        "tourist": 96,
+        "senior": 91,
+        "emergency": 95,
+        "traffic": 85
+      },
+      "summary": "Extremely safe commercial district with one of the lowest violent crime rates globally. Police Kobans are stationed at every major exit. Primary advisory is crowd navigation during evening rush hour.",
+      "crime": [
+        { "label": "Vehicle Theft", "pct": 15 },
+        { "label": "Robbery", "pct": 6 },
+        { "label": "Harassment", "pct": 12 },
+        { "label": "Assault", "pct": 2 },
+        { "label": "Cyber Crime", "pct": 15 },
+        { "label": "Others", "pct": 50 }
+      ],
+      "time": "All day & night",
+      "reportsCount": 2,
+      "trend": "Consistently Safe (-1% this month)",
+      "reports": [
+        { "reason": "Heavy crowd", "time": "1 hour ago", "verified": true }
+      ]
+    }
+  ],
+  "reports": [
+    { "id": "r1", "lat": 11.0025, "lng": 76.9635, "reason": "Poor street lighting", "time": "2 hours ago", "verified": true, "locationId": "railway" },
+    { "id": "r2", "lat": 11.0190, "lng": 76.9730, "reason": "Unsafe at night", "time": "1 hour ago", "verified": true, "locationId": "gandhipuram" },
+    { "id": "r3", "lat": 11.0090, "lng": 76.9510, "reason": "Heavy crowd", "time": "Yesterday", "verified": true, "locationId": "rspuram" },
+    { "id": "r4", "lat": 10.9990, "lng": 76.9805, "reason": "Broken CCTV", "time": "6 hours ago", "verified": true, "locationId": "racecourse" },
+    { "id": "r5", "lat": 40.7585, "lng": -73.9860, "reason": "Heavy crowd", "time": "30 mins ago", "verified": true, "locationId": "timessquare" }
+  ]
+}
